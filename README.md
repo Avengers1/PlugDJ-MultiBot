@@ -29,11 +29,11 @@ This Generator will generate too a `Main.js` code, you can download it if you wa
 
 Plugins
 -----------
-[BasicCommands](https://github.com/Guichaguri/PlugDJ-MultiBot/wiki/BasicCommands)
+[BasicCommands](https://github.com/Guichaguri/PlugDJ-MultiBot/wiki/%5BPLUGIN%5D-BasicCommands)
 
-[DJBot](https://github.com/Guichaguri/PlugDJ-MultiBot/wiki/DJBot)
+[DJBot](https://github.com/Guichaguri/PlugDJ-MultiBot/wiki/%5BPLUGIN%5D-DJBot)
 
-[ChatManager](https://github.com/Guichaguri/PlugDJ-MultiBot/wiki/ChatManager)
+[ChatManager](https://github.com/Guichaguri/PlugDJ-MultiBot/wiki/%5BPLUGIN%5D-ChatManager)
 
 Pages & Tutorials
 -----------
