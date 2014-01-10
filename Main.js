@@ -1,10 +1,10 @@
 // Main Javascript File
 // EDIT THE URLS BELOW
 
-var MultiBotScript = 'http://example.com/plugdj/MultiBot.js';
-var MultiBotPlugins = ['http://example.com/plugdj/plugins/BasicCommands.js',
-                       'http://example.com/plugdj/plugins/DJBot.js',
-                       'http://example.com/plugdj/plugins/ChatManager.js'];
+var MultiBotScript = 'https://raw.github.com/Guichaguri/PlugDJ-MultiBot/master/MultiBot.js';
+var MultiBotPlugins = ['https://raw.github.com/Guichaguri/PlugDJ-MultiBot/master/plugins/BasicCommands.js',
+                       'https://raw.github.com/Guichaguri/PlugDJ-MultiBot/master/plugins/DJBot.js',
+                       'https://raw.github.com/Guichaguri/PlugDJ-MultiBot/master/plugins/ChatManager.js'];
 
 // DON'T EDIT BELOW
 // @author Guichaguri
