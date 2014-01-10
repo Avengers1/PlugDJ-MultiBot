@@ -9,14 +9,19 @@ Features
 * Interface
 For more features, see some plugins
 
+Demo!
+-----------
+Add `javascript:$.getScript('https://raw.github.com/Guichaguri/PlugDJ-MultiBot/master/Main.js');` to favorites and click on plugdj room, or copy to the plugdj room url to a demo. The bot needs to be a Manager.
+
 How to Use
 -----------
-Add `javascript:$.getScript('https://raw.github.com/Guichaguri/PlugDJ-MultiBot/master/Main.js');` to favorites and click on plugdj room, or copy to the plugdj room url to a demo.
 
-Host the `Main.js` and the `MultiBot.js` with the instructions, and your new favorite url will be:
-`javascript:$.getScript('MULTIBOT MAIN.JS URL');`
+You can generate your own bot [here](http://guiscripts.6te.net/plugdj/botgenerator.php)
 
-[UNDER MAINTENANCE]
+This will generate a code that you can favorite them or copy and paste in the url on your plugdj room
+This Generator will generate too a `Main.js` code, you can download it if you want.
+**The Bot needs to be a Manager**
 
 Tutorials
 -----------
+Soon...
