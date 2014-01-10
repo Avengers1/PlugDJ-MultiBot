@@ -1,9 +1,7 @@
-// MultiBot
-// @author Guichaguri
-
 String.prototype.startsWith = function(str){return this.indexOf(str) == 0;};
 String.prototype.replaceAll = function(from, to) {var str = this;
     while(str.indexOf(from) != -1) str = str.replace(from, to); return str;}
+function isUndefined(obj) { return obj === void 0; };
 
 var BOT = {
     registerTimer: function(t) {
@@ -97,12 +95,15 @@ var BOT = {
         this.INTERNAL.syncRelist();
     },
     
+    /* ******************************************** INTERNAL ******************************************** */
+    
     INTERNAL: {
         inicialize: function() {
             if($('body').length == 0) {BOT.registerTimer(setTimeout(function(){inicializeBot();}, 10000));return;}
             $('body').css('background-image', 'none').css('background-color', '#E6E6E6');
-            $('#room').css({boxShadow: 'inset 0px 0px 10px rgba(0, 0, 0, 0.5), inset 0px 0px 150px rgba(0, 0, 0, 0.25)'});
-
+            $('#room').css('box-shadow', 'inset 0px 0px 10px rgba(0, 0, 0, 0.5), inset 0px 0px 150px rgba(0, 0, 0, 0.25)');
+            $('#room').css('font-family', '\'Open Sans\', sans-serif');
+            
             $('#room #playback').remove(); $('#room #audience').remove(); $('#room #dj-booth').remove();
             $('#room canvas').remove(); $('#room *').hide();
             $('#room').append('<div id="botstatus" class="botelement">LOADING</div><div id="botpanel" class="botelement"></div>');
