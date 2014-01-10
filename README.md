@@ -8,6 +8,7 @@ Features
 * Easly API for commands 
 * A lot of functions: kick, mute, ban with minutes, reload, waitlist lockjoin
 * Interface
+
 For more features, see some plugins
 
 Demo!
