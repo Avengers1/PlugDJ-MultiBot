@@ -1,5 +1,6 @@
 PlugDJ-MultiBot
 ===============
+MultiBot is a basebot that will load plugins for functions
 
 Features
 -----------
@@ -18,19 +19,26 @@ How to Use
 
 You can generate your own bot [here](http://guiscripts.6te.net/plugdj/botgenerator.php)
 
+
+
 This will generate a code that you can favorite them or copy and paste in the url on your plugdj room
+
 This Generator will generate too a `Main.js` code, you can download it if you want.
+
 **The Bot needs to be a Manager**
 
 Plugins
 -----------
 [BasicCommands](https://github.com/Guichaguri/PlugDJ-MultiBot/wiki/BasicCommands)
-[DJBot](https://github.com/Guichaguri/PlugDJ-MultiBot/wiki/DJBot)
-[ChatManager](https://github.com/Guichaguri/PlugDJ-MultiBot/wiki/ChatManager)
 
+[DJBot](https://github.com/Guichaguri/PlugDJ-MultiBot/wiki/DJBot)
+
+[ChatManager](https://github.com/Guichaguri/PlugDJ-MultiBot/wiki/ChatManager)
 
 Pages & Tutorials
 -----------
 [API Functions](https://github.com/Guichaguri/PlugDJ-MultiBot/wiki/API-Functions)
+
 [How to create your own Plugin](https://github.com/Guichaguri/PlugDJ-MultiBot/wiki/How-to-create-your-own-plugin)
+
 [How to create your own Command](https://github.com/Guichaguri/PlugDJ-MultiBot/wiki/How-to-create-your-own-command)
