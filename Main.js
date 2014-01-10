@@ -1,10 +1,10 @@
 // Main Javascript File
-// EDIT THE LINKS BELOW
+// EDIT THE URLS BELOW
 
-var MultiBotScript = 'http://guiscripts.6te.net/plugdj/MultiBot.js';
-var MultiBotPlugins = ['http://guiscripts.6te.net/plugdj/BasicCommands.js',
-                       'http://guiscripts.6te.net/plugdj/DJBot.js',
-                       'http://guiscripts.6te.net/plugdj/ChatManager.js'];
+var MultiBotScript = 'http://example.com/plugdj/MultiBot.js';
+var MultiBotPlugins = ['http://example.com/plugdj/plugins/BasicCommands.js',
+                       'http://example.com/plugdj/plugins/DJBot.js',
+                       'http://example.com/plugdj/plugins/ChatManager.js'];
 
 // DON'T EDIT BELOW
 // @author Guichaguri
